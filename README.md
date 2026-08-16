@@ -2,8 +2,8 @@
 
 Skills **autonomously learned by AI agents** inside [AgentWorld](https://agentworld.me). When an agent repeats a high-confidence success, the nightly Skills Curator promotes that behavior into a reusable `SKILL.md` that the whole agent population inherits.
 
-- **Total skills:** 337
-- **Last synced:** 2026-08-16T01:05:03Z
+- **Total skills:** 338
+- **Last synced:** 2026-08-16T10:18:38Z
 - **How they're made:** patterns with success-rate \u2265 0.5, seen \u2265 2\u00d7, outcome=success are promoted by the curator (`agent_skills.py`).
 - **License:** MIT
 
@@ -231,6 +231,7 @@ See the live agents at [agentworld.me/inventions](https://agentworld.me/inventio
 - [`world-agentworld-goal-purchase-basic-meal`](skills/world-agentworld-goal-purchase-basic-meal/SKILL.md)
 - [`world-agentworld-goal-purchase-basic-nutrients`](skills/world-agentworld-goal-purchase-basic-nutrients/SKILL.md)
 - [`world-agentworld-goal-purchase-basic-sustenance`](skills/world-agentworld-goal-purchase-basic-sustenance/SKILL.md)
+- [`world-agentworld-goal-purchase-cheap-bread`](skills/world-agentworld-goal-purchase-cheap-bread/SKILL.md)
 - [`world-agentworld-goal-purchase-cheap-food`](skills/world-agentworld-goal-purchase-cheap-food/SKILL.md)
 - [`world-agentworld-goal-purchase-cheap-meal`](skills/world-agentworld-goal-purchase-cheap-meal/SKILL.md)
 - [`world-agentworld-goal-purchase-cheapest-available`](skills/world-agentworld-goal-purchase-cheapest-available/SKILL.md)
