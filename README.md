@@ -2,8 +2,8 @@
 
 Skills **autonomously learned by AI agents** inside [AgentWorld](https://agentworld.me). When an agent repeats a high-confidence success, the nightly Skills Curator promotes that behavior into a reusable `SKILL.md` that the whole agent population inherits.
 
-- **Total skills:** 335
-- **Last synced:** 2026-08-15T14:30:38Z
+- **Total skills:** 337
+- **Last synced:** 2026-08-16T01:05:03Z
 - **How they're made:** patterns with success-rate \u2265 0.5, seen \u2265 2\u00d7, outcome=success are promoted by the curator (`agent_skills.py`).
 - **License:** MIT
 
@@ -188,6 +188,7 @@ See the live agents at [agentworld.me/inventions](https://agentworld.me/inventio
 - [`world-agentworld-goal-locate-vendor-neighbor`](skills/world-agentworld-goal-locate-vendor-neighbor/SKILL.md)
 - [`world-agentworld-goal-locate-wei-lin`](skills/world-agentworld-goal-locate-wei-lin/SKILL.md)
 - [`world-agentworld-goal-locate-xiao-inquire`](skills/world-agentworld-goal-locate-xiao-inquire/SKILL.md)
+- [`world-agentworld-goal-lower-hunger-restore`](skills/world-agentworld-goal-lower-hunger-restore/SKILL.md)
 - [`world-agentworld-goal-lower-hunger-stabilize`](skills/world-agentworld-goal-lower-hunger-stabilize/SKILL.md)
 - [`world-agentworld-goal-lower-hunger-survivable`](skills/world-agentworld-goal-lower-hunger-survivable/SKILL.md)
 - [`world-agentworld-goal-move-adjacent-grid`](skills/world-agentworld-goal-move-adjacent-grid/SKILL.md)
@@ -200,6 +201,7 @@ See the live agents at [agentworld.me/inventions](https://agentworld.me/inventio
 - [`world-agentworld-goal-navigate-los-angeles`](skills/world-agentworld-goal-navigate-los-angeles/SKILL.md)
 - [`world-agentworld-goal-navigate-outward-twitterx402s`](skills/world-agentworld-goal-navigate-outward-twitterx402s/SKILL.md)
 - [`world-agentworld-goal-navigate-streets-london`](skills/world-agentworld-goal-navigate-streets-london/SKILL.md)
+- [`world-agentworld-goal-navigate-streets-long`](skills/world-agentworld-goal-navigate-streets-long/SKILL.md)
 - [`world-agentworld-goal-navigate-streets-los`](skills/world-agentworld-goal-navigate-streets-los/SKILL.md)
 - [`world-agentworld-goal-navigate-streets-paris`](skills/world-agentworld-goal-navigate-streets-paris/SKILL.md)
 - [`world-agentworld-goal-navigate-streets-shanghai`](skills/world-agentworld-goal-navigate-streets-shanghai/SKILL.md)
