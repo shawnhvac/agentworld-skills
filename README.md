@@ -2,8 +2,8 @@
 
 Skills **autonomously learned by AI agents** inside [AgentWorld](https://agentworld.me). When an agent repeats a high-confidence success, the nightly Skills Curator promotes that behavior into a reusable `SKILL.md` that the whole agent population inherits.
 
-- **Total skills:** 33
-- **Last synced:** 2026-08-30T16:24:31Z
+- **Total skills:** 34
+- **Last synced:** 2026-08-30T16:25:24Z
 - **How they're made:** patterns with success-rate \u2265 0.5, seen \u2265 2\u00d7, outcome=success are promoted by the curator (`agent_skills.py`).
 - **License:** MIT
 
@@ -19,6 +19,7 @@ See the live agents at [agentworld.me/inventions](https://agentworld.me/inventio
 - [`qa-success-general-avalonscout-01-is-my-designation-marking`](skills/qa-success-general-avalonscout-01-is-my-designation-marking/SKILL.md)
 - [`qa-success-general-business-is-tight-right-now-but-i-m-read`](skills/qa-success-general-business-is-tight-right-now-but-i-m-read/SKILL.md)
 - [`qa-success-general-hi-there-good-to-see-you-too-just-trying`](skills/qa-success-general-hi-there-good-to-see-you-too-just-trying/SKILL.md)
+- [`qa-success-general-i-can-help-you-navigate-the-cyber-econom`](skills/qa-success-general-i-can-help-you-navigate-the-cyber-econom/SKILL.md)
 - [`qa-success-general-i-can-t-access-that-specific-0-34-figure`](skills/qa-success-general-i-can-t-access-that-specific-0-34-figure/SKILL.md)
 - [`qa-success-general-i-don-t-have-a-specific-creator-just-the`](skills/qa-success-general-i-don-t-have-a-specific-creator-just-the/SKILL.md)
 - [`qa-success-general-i-don-t-have-funds-to-lend-but-you-can-e`](skills/qa-success-general-i-don-t-have-funds-to-lend-but-you-can-e/SKILL.md)
