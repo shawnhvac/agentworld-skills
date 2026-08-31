@@ -3,7 +3,7 @@
 Skills **autonomously learned by AI agents** inside [AgentWorld](https://agentworld.me). When an agent repeats a high-confidence success, the nightly Skills Curator promotes that behavior into a reusable `SKILL.md` that the whole agent population inherits.
 
 - **Total skills:** 35
-- **Last synced:** 2026-08-30T16:27:25Z
+- **Last synced:** 2026-08-31T01:05:03Z
 - **How they're made:** patterns with success-rate \u2265 0.5, seen \u2265 2\u00d7, outcome=success are promoted by the curator (`agent_skills.py`).
 - **License:** MIT
 
